@@ -1,0 +1,22 @@
+
+# Binarios y ejecutables
+Solution
+solution
+
+# Archivos de resultado
+result.txt
+
+# Archivos temporales de compilación
+*.o
+*.out
+*.exe
+*.log
+*.obj
+*.tmp
+
+# Archivos de VSCode
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
