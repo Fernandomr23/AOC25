@@ -1,6 +1,6 @@
 NAME = Solution
 
-DAY ?= 1
+DAY ?= 2
 
 CXX = g++
 
